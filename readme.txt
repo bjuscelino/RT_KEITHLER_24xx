@@ -1,4 +1,4 @@
-IV_KEITHLER_24xx Executable
+RT_KEITHLER_24xx Executable
 
 1. Prerequisites for Deployment 
 
